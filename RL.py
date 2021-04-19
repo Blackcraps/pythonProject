@@ -22,7 +22,8 @@ features = ['mariee', 'retraite', 'a_charge', 'facture_mensuelle', 'telephone', 
 X = users[features].values
 y = users[['sortie_client']].values.flatten()
 
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
+# découpage des jeux d'entraînement et de test
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.001)
 
 print(X_train.shape)
 print(y_train.shape)

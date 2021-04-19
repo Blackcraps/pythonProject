@@ -10,6 +10,9 @@ from sklearn import metrics
 from sklearn.metrics import f1_score
 from sklearn.tree import DecisionTreeClassifier, _tree
 
+"""Nous avons fait une tentative de Bagging pour améliorer notre score en combinant la régression logistique qui est notre meilleur score avec des arbres de décisions sur nos faux positif pour tenter de prendre le meilleur résultat.
+Nous n'avons pas de résultat par manque de temps mais sur ce point que nous étions en train de travailler sur la fin du projet."""
+
 services = pd.read_csv('https://raw.githubusercontent.com/Blackcraps/pythonProject/master/data/telecom_services.csv',
                        delimiter=';')
 users = pd.read_csv('https://raw.githubusercontent.com/Blackcraps/pythonProject/master/data/telecom_users.csv',
@@ -99,23 +102,3 @@ def tree(X_train):
             else:  # if X_train['contrat'] > 1.999673306941986
                 return 'Node_8'
 
-"""
-sm = SMOTE(random_state=42, sampling_strategy=1)
-X_train_sm, y_train_sm = sm.fit_resample(X_train, y_train)
-
-mlog = LogisticRegression().fit(X_train_sm, y_train_sm)
-
-y_pred = mlog.predict(X_train_sm)
-
-confusion_matrix(y_train_sm, y_pred)
-
-f1_score(y_train_sm, y_pred, average='macro')
-
-eval_pred = eval[features].values
-pred = mlog.predict(eval_pred)
-
-df = pd.DataFrame(X_train_sm, columns=['mariee', 'retraite', 'a_charge', 'facture_mensuelle', 'telephone', 'plusieurs_numeros', 'internet',
-            'total_factures', 'contrat', 'facture_par_mail', 'client_depuis_mois'])
-
-
-print(pred)"""
