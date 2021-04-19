@@ -1,0 +1,201 @@
+id_client,mariee,retraite,a_charge,genre,facture_mensuelle,telephone,plusieurs_numeros,internet,total_factures,contrat,facture_par_mail,type_de_paiement,client_depuis_mois
+CXYIX45132,1,1,0,F,80.700,Oui,Yes,Fibre,5676.000,Two year,1,Credit card (automatic),71
+IJVDB05309,0,0,1,H,114.600,Oui,Yes,Fibre,7882.500,Two year,1,Electronic check,70
+QVYJO67626,1,0,1,F,59.750,Non,No phone service,ADSL,3624.350,Two year,0,Mailed check,58
+CIPQE25992,1,0,1,H,109.300,Oui,No,Fibre,7782.850,Two year,0,Credit card (automatic),71
+VLGQT33172,1,0,0,F,78.100,Oui,No,Fibre,1122.400,Month-to-month,1,Electronic check,14
+ZZTFS81669,1,1,0,F,80.550,Oui,Yes,ADSL,5265.100,Two year,1,Bank transfer (automatic),66
+HFYIV83486,0,0,0,H,49.250,Non,No phone service,ADSL,90.350,Month-to-month,1,Electronic check,2
+BRIXZ58621,0,0,0,H,60.750,Non,No phone service,ADSL,2893.400,Two year,1,Bank transfer (automatic),46
+CKDNC72785,0,1,0,H,80.500,Oui,Yes,Fibre,2088.450,Month-to-month,1,Electronic check,24
+TBGPH54803,1,0,0,F,99.300,Oui,No,Fibre,2431.350,Month-to-month,1,Credit card (automatic),24
+SNKKW69722,0,0,0,F,20.000,Oui,No,Non,109.200,Month-to-month,0,Mailed check,6
+TDGMT69241,1,0,0,H,20.550,Oui,No,Non,184.950,One year,1,Mailed check,11
+HVYXR69608,0,0,0,F,76.000,Oui,Yes,Fibre,76.000,Month-to-month,0,Electronic check,1
+XMOYM46258,1,0,1,F,26.250,Oui,Yes,Non,1988.050,Two year,1,Bank transfer (automatic),72
+NYLMZ27984,1,0,0,H,108.550,Oui,Yes,Fibre,7616.000,Two year,1,Credit card (automatic),71
+SKVMF05782,1,0,1,F,83.300,Oui,No,Fibre,1845.900,Month-to-month,0,Electronic check,22
+ZTDOZ15305,1,0,0,F,40.650,Non,No phone service,ADSL,2070.750,Month-to-month,0,Bank transfer (automatic),49
+CAXOA56403,0,0,0,F,40.350,Non,No phone service,ADSL,1187.050,One year,1,Credit card (automatic),30
+UULRV83744,0,0,0,H,86.050,Oui,Yes,ADSL,6309.650,Two year,0,Credit card (automatic),72
+RFMVS71205,0,0,0,H,84.500,Oui,Yes,Fibre,84.500,Month-to-month,0,Electronic check,1
+CSMJE60297,0,0,0,H,25.650,Non,No phone service,ADSL,440.200,Month-to-month,1,Mailed check,17
+NECEV45669,0,0,0,H,96.550,Oui,Yes,Fibre,500.100,Month-to-month,0,Electronic check,5
+YLBMM63055,0,0,0,H,104.050,Oui,No,Fibre,7262.000,One year,1,Bank transfer (automatic),69
+ZPALD40498,1,0,0,F,99.000,Oui,No,Fibre,6375.800,Two year,1,Bank transfer (automatic),64
+QOJRX28942,1,0,0,F,34.000,Non,No phone service,ADSL,853.000,Month-to-month,1,Bank transfer (automatic),25
+WGNGG10952,1,0,0,F,101.050,Oui,Yes,Fibre,5971.250,Two year,1,Bank transfer (automatic),61
+VGEQQ84347,1,0,1,H,20.550,Oui,No,Non,1305.950,Two year,0,Credit card (automatic),61
+TQDZX31957,0,0,0,H,20.250,Oui,No,Non,61.450,Month-to-month,1,Electronic check,3
+YUNGG36126,1,0,1,H,109.200,Oui,Yes,Fibre,6741.150,Two year,1,Credit card (automatic),64
+ZIKUV13867,0,0,0,H,18.950,Oui,No,Non,130.550,Month-to-month,1,Mailed check,7
+FEXWF09806,1,0,1,H,50.350,Oui,No,ADSL,1285.800,One year,0,Mailed check,26
+OJYKK92487,0,1,0,H,76.450,Oui,Yes,Fibre,76.450,Month-to-month,1,Electronic check,1
+PQBBZ72069,1,1,0,H,70.200,Oui,No,Fibre,834.700,Month-to-month,1,Electronic check,11
+YBAXE92279,1,0,1,F,82.500,Oui,Yes,ADSL,5215.100,Two year,1,Bank transfer (automatic),65
+SGQXL90908,1,1,0,H,105.300,Oui,Yes,Fibre,7299.650,Month-to-month,1,Electronic check,68
+QGOYB65917,0,0,0,H,106.650,Oui,Yes,Fibre,1672.100,Month-to-month,1,Bank transfer (automatic),17
+YDGFJ06553,0,0,0,H,48.950,Oui,No,ADSL,1323.700,Month-to-month,0,Bank transfer (automatic),29
+GHVRI98122,0,0,0,F,83.850,Oui,Yes,Fibre,3532.250,Month-to-month,0,Bank transfer (automatic),40
+FTQGN11502,1,0,1,F,94.150,Oui,Yes,Fibre,5811.800,One year,0,Bank transfer (automatic),60
+HTUIF43698,0,1,0,H,85.150,Oui,No,Fibre,503.600,Month-to-month,1,Bank transfer (automatic),6
+TKDJV68576,1,0,1,H,24.650,Oui,Yes,Non,1620.450,Two year,0,Bank transfer (automatic),67
+JNBOX85442,0,0,0,H,20.800,Oui,No,Non,1521.200,Two year,1,Mailed check,72
+JQKEA61431,0,0,0,H,45.800,Oui,No,ADSL,436.200,Month-to-month,1,Credit card (automatic),10
+UQWWF81681,0,0,0,F,97.850,Oui,Yes,Fibre,1105.400,Month-to-month,1,Bank transfer (automatic),11
+QRBXH75606,0,0,1,F,19.950,Oui,No,Non,936.700,One year,0,Mailed check,48
+BDTWG71108,1,0,0,F,47.050,Non,No phone service,ADSL,3263.600,Two year,1,Electronic check,71
+EORGB59373,1,1,0,H,96.500,Oui,Yes,Fibre,1392.250,Month-to-month,1,Electronic check,15
+GYRYL26507,1,0,1,H,19.450,Oui,No,Non,600.250,One year,1,Bank transfer (automatic),33
+VGRUM18334,0,1,0,F,74.200,Oui,Yes,Fibre,74.200,Month-to-month,1,Electronic check,1
+COKXZ65952,0,0,0,F,44.450,Oui,No,ADSL,44.450,Month-to-month,1,Mailed check,1
+ADZFJ22457,1,0,1,F,80.550,Oui,Yes,ADSL,2471.600,Two year,0,Bank transfer (automatic),31
+JBMNH37553,1,1,0,H,71.800,Oui,No,Fibre,1167.800,Month-to-month,1,Bank transfer (automatic),16
+HADHQ41062,1,0,1,H,80.000,Oui,No,ADSL,3182.950,One year,0,Credit card (automatic),39
+OSATS33184,0,1,0,H,95.450,Oui,Yes,Fibre,3474.050,Month-to-month,1,Electronic check,35
+GBFRE51672,0,1,0,H,25.200,Non,No phone service,ADSL,102.500,Month-to-month,1,Bank transfer (automatic),4
+VSLRB82057,1,0,0,H,77.300,Oui,Yes,ADSL,5498.200,Two year,0,Credit card (automatic),70
+FXYBO41769,1,0,0,H,109.550,Oui,Yes,Fibre,6118.950,Month-to-month,0,Electronic check,54
+OKINF38505,1,0,1,H,66.200,Oui,Yes,ADSL,4692.550,One year,1,Electronic check,71
+RHRFR37054,1,0,0,F,99.150,Oui,Yes,Fibre,6875.350,Two year,0,Bank transfer (automatic),69
+HFYZX25281,1,1,0,H,76.450,Oui,No,Fibre,1233.400,Month-to-month,1,Electronic check,17
+TFERT01156,1,0,0,H,111.200,Oui,Yes,Fibre,2317.100,Month-to-month,1,Electronic check,21
+JASDG77943,0,0,0,H,50.750,Oui,No,ADSL,50.750,Month-to-month,1,Mailed check,1
+OONVS30995,1,0,1,H,54.300,Oui,No,ADSL,1296.800,Month-to-month,0,Electronic check,25
+DKWYW54465,1,1,1,F,65.200,Oui,Yes,ADSL,3965.050,One year,1,Electronic check,61
+LCOUI50574,0,0,0,F,50.750,Non,No phone service,ADSL,2011.400,Month-to-month,1,Electronic check,39
+SFQSA14307,0,0,0,H,35.600,Non,No phone service,ADSL,1072.600,One year,0,Mailed check,29
+IPLOP23916,1,0,1,H,69.650,Oui,Yes,ADSL,3442.150,One year,1,Electronic check,50
+MKNFE00031,0,0,0,H,59.900,Oui,Yes,ADSL,542.400,Month-to-month,0,Mailed check,9
+EBTKM59961,1,0,1,F,69.900,Oui,Yes,ADSL,4615.900,Two year,1,Bank transfer (automatic),67
+RYUKI88787,0,0,0,F,59.450,Oui,No,ADSL,3043.700,Month-to-month,1,Electronic check,52
+RPYWW52485,1,1,1,F,90.150,Oui,Yes,ADSL,6716.450,Two year,1,Bank transfer (automatic),72
+GQEGV69594,0,0,0,H,75.950,Oui,No,ADSL,3273.800,Month-to-month,1,Electronic check,45
+LNMHF84068,1,1,0,H,82.950,Oui,No,Fibre,4903.150,One year,1,Credit card (automatic),59
+EVZWM00589,1,0,0,F,89.800,Oui,Yes,Fibre,4959.600,Month-to-month,1,Bank transfer (automatic),55
+DGLVH87015,0,0,0,H,20.450,Oui,No,Non,1042.650,Two year,0,Mailed check,51
+QVRRW45669,1,0,0,F,44.050,Oui,No,ADSL,483.700,Month-to-month,1,Electronic check,11
+STPKP50924,0,0,0,F,56.350,Oui,No,ADSL,1381.200,Month-to-month,0,Credit card (automatic),24
+CNITK02648,1,0,1,F,20.100,Oui,No,Non,1389.600,Two year,0,Bank transfer (automatic),71
+FXFVO57609,0,0,0,H,78.950,Oui,No,Fibre,494.950,Month-to-month,1,Electronic check,6
+ILMNY61665,0,0,0,F,69.750,Oui,No,Fibre,144.550,Month-to-month,0,Bank transfer (automatic),2
+JGQKH95863,1,0,0,F,105.400,Oui,Yes,Fibre,6794.750,Two year,1,Bank transfer (automatic),64
+VYYWS48175,0,0,0,F,100.200,Oui,Yes,Fibre,2983.800,Month-to-month,1,Electronic check,30
+GITPX62833,0,0,1,H,76.900,Oui,No,ADSL,5522.700,Two year,1,Credit card (automatic),71
+VDUER28779,1,0,1,F,40.900,Non,No phone service,ADSL,1383.600,One year,0,Mailed check,35
+YDVLT63331,0,0,0,H,110.000,Oui,Yes,Fibre,7138.650,One year,1,Credit card (automatic),65
+CGSFV78798,0,0,0,H,100.900,Oui,No,Fibre,5552.050,One year,1,Mailed check,55
+GBUSH30507,0,0,0,F,34.800,Non,No phone service,ADSL,113.950,Month-to-month,1,Credit card (automatic),3
+XEHAX52036,0,0,0,F,64.350,Oui,No,ADSL,2053.050,One year,0,Electronic check,34
+IJDHX69866,1,0,1,H,86.300,Oui,No,Fibre,3266.000,Month-to-month,1,Mailed check,39
+BTZRO20301,1,0,1,H,20.400,Oui,No,Non,107.600,Two year,1,Credit card (automatic),6
+LFZVW27828,0,0,0,F,58.950,Oui,Yes,ADSL,601.600,Month-to-month,1,Mailed check,11
+OHFMN26368,1,0,0,H,48.550,Non,No phone service,ADSL,201.000,Month-to-month,1,Electronic check,4
+CJJKH50622,1,0,1,H,53.650,Oui,No,ADSL,1355.450,One year,0,Mailed check,25
+WUSPA22727,1,0,0,F,110.750,Oui,Yes,Fibre,7751.700,Two year,1,Electronic check,72
+DIAUQ10106,0,0,0,H,96.500,Oui,No,Fibre,492.550,Month-to-month,0,Bank transfer (automatic),5
+YHXGP09582,0,0,0,F,69.900,Oui,No,Fibre,497.300,Month-to-month,1,Mailed check,7
+WLRSQ34114,1,1,0,F,74.600,Oui,No,Fibre,239.050,Month-to-month,1,Bank transfer (automatic),3
+PEUTS18322,1,0,1,H,89.100,Oui,Yes,Fibre,5411.650,Two year,1,Credit card (automatic),62
+GEJLJ10517,0,0,0,F,19.500,Oui,No,Non,27.550,Month-to-month,0,Mailed check,2
+BDSOA35942,1,0,0,F,20.400,Oui,No,Non,482.800,One year,0,Credit card (automatic),24
+MAWLJ26424,1,0,1,F,20.250,Oui,No,Non,717.950,Two year,0,Bank transfer (automatic),36
+SNFFH84697,1,0,0,H,79.400,Oui,Yes,ADSL,5528.900,One year,0,Bank transfer (automatic),70
+ZNBZI70968,1,0,0,F,26.450,Oui,Yes,Non,1914.500,Two year,0,Credit card (automatic),72
+NPHVG55191,0,0,0,F,94.200,Oui,Yes,Fibre,1046.100,Month-to-month,1,Electronic check,12
+VVYHM69088,1,0,0,H,90.650,Oui,Yes,Fibre,5931.000,Month-to-month,1,Electronic check,65
+UNYHB77774,1,0,1,F,20.100,Oui,No,Non,232.400,Month-to-month,1,Credit card (automatic),12
+PQKDW06545,1,0,1,F,70.750,Oui,No,ADSL,4263.450,One year,1,Bank transfer (automatic),62
+RUCRN30865,0,0,0,F,103.100,Oui,Yes,Fibre,6595.000,Month-to-month,1,Bank transfer (automatic),66
+NHTLT14984,1,0,1,H,86.750,Oui,No,ADSL,5186.000,Two year,1,Electronic check,59
+QWFBJ13962,1,0,1,F,74.050,Oui,No,Fibre,1565.700,Month-to-month,1,Bank transfer (automatic),21
+GKOWZ20749,1,0,1,H,89.550,Oui,No,Fibre,185.550,Month-to-month,1,Bank transfer (automatic),2
+OVLBJ71823,1,0,1,F,101.150,Oui,Yes,Fibre,6638.350,Two year,1,Bank transfer (automatic),62
+IJFSQ63043,0,0,0,H,49.900,Oui,No,ADSL,130.100,Month-to-month,1,Mailed check,3
+YNDEK12314,0,0,0,H,19.150,Oui,No,Non,1035.500,Two year,1,Bank transfer (automatic),58
+BDAQO27191,0,0,0,H,93.850,Oui,No,Fibre,1625.650,Month-to-month,0,Electronic check,17
+WASFJ52163,1,1,0,F,84.850,Oui,Yes,Fibre,2633.400,Month-to-month,1,Electronic check,31
+ITEFG95471,1,0,1,H,102.600,Oui,Yes,Fibre,897.750,Month-to-month,1,Credit card (automatic),9
+OKIPP12854,0,0,0,H,79.900,Oui,No,Fibre,79.900,Month-to-month,0,Electronic check,1
+UFNZP53368,1,1,1,F,107.450,Oui,Yes,Fibre,7047.500,One year,1,Electronic check,65
+KIWPV25955,0,0,1,H,19.700,Oui,No,Non,509.300,Two year,0,Credit card (automatic),27
+ITUMV51749,1,0,1,H,105.400,Oui,Yes,Fibre,6989.450,One year,1,Electronic check,67
+DWCKX82248,0,1,0,H,73.300,Oui,Yes,Fibre,828.050,Month-to-month,1,Credit card (automatic),12
+CYWIV22652,1,1,0,F,99.600,Oui,Yes,Fibre,347.650,Month-to-month,1,Electronic check,4
+AOBHI51752,0,0,0,F,46.000,Oui,No,ADSL,193.600,Month-to-month,1,Mailed check,4
+NOZNR10043,0,1,1,H,94.800,Oui,No,Fibre,5264.300,One year,0,Credit card (automatic),56
+VBVPB26547,0,0,0,F,19.900,Oui,No,Non,19.900,Month-to-month,0,Bank transfer (automatic),1
+CPNUN66355,1,0,0,H,96.600,Oui,Yes,Fibre,2684.350,Month-to-month,0,Credit card (automatic),28
+UGTGR22087,0,0,0,H,98.600,Oui,Yes,Fibre,5581.050,Month-to-month,0,Electronic check,56
+MDOIR52973,1,0,0,F,81.150,Oui,No,Fibre,5224.500,One year,1,Credit card (automatic),63
+HKANN45006,1,0,1,H,59.700,Oui,Yes,ADSL,1414.200,Two year,0,Mailed check,23
+EZXZN57167,1,0,1,F,99.050,Oui,Yes,Fibre,6416.700,Two year,1,Credit card (automatic),65
+LZYGF93519,1,0,0,F,66.400,Oui,Yes,ADSL,2727.800,Month-to-month,1,Credit card (automatic),42
+AZJDE71299,1,0,1,H,78.950,Oui,No,Fibre,2647.200,One year,1,Bank transfer (automatic),34
+LRUUR71841,0,0,0,F,65.250,Oui,No,ADSL,1441.800,One year,0,Bank transfer (automatic),22
+ZYFEL43029,1,0,1,H,20.550,Oui,No,Non,1403.100,One year,1,Credit card (automatic),69
+ZFYDO11565,0,0,0,F,19.750,Oui,No,Non,19.750,Month-to-month,0,Electronic check,1
+IVZVP91737,1,0,1,F,20.900,Oui,No,Non,1146.050,Two year,0,Mailed check,53
+OADNZ17719,1,1,0,H,95.900,Oui,Yes,Fibre,2745.200,Month-to-month,1,Electronic check,29
+GXEZS03653,1,0,0,H,78.200,Oui,No,Fibre,1468.750,Month-to-month,0,Electronic check,18
+SNYRK01212,0,0,0,H,35.400,Non,No phone service,ADSL,1748.900,One year,1,Mailed check,50
+LDMPS75174,0,0,0,F,84.600,Oui,No,Fibre,1017.350,Month-to-month,1,Electronic check,12
+XLHDR87408,0,0,0,H,43.250,Non,No phone service,ADSL,219.000,Month-to-month,1,Mailed check,5
+JRSDE23206,1,0,1,F,19.900,Oui,No,Non,19.900,Month-to-month,1,Electronic check,1
+EYCER43383,1,0,0,H,54.600,Oui,No,ADSL,1125.200,Month-to-month,0,Bank transfer (automatic),21
+CUQZX39265,0,0,0,H,45.100,Oui,No,ADSL,45.100,Month-to-month,1,Bank transfer (automatic),1
+ACRHJ61246,0,0,0,F,19.750,Oui,No,Non,19.750,Month-to-month,0,Mailed check,1
+ZTBFQ61153,1,0,0,F,65.500,Non,No phone service,ADSL,4919.700,Two year,0,Bank transfer (automatic),72
+TJFEK53395,1,0,1,H,105.500,Oui,Yes,Fibre,6487.200,Month-to-month,1,Electronic check,62
+NMUVX32801,1,0,1,H,19.600,Oui,No,Non,678.800,One year,0,Credit card (automatic),34
+YNYOT00526,0,0,0,F,20.550,Oui,No,Non,1343.400,One year,0,Electronic check,67
+WHQPW86852,0,1,0,F,74.400,Oui,Yes,Fibre,1692.600,Month-to-month,1,Bank transfer (automatic),22
+DGMAQ06745,1,1,0,H,93.500,Oui,Yes,Fibre,2970.800,Month-to-month,1,Electronic check,32
+KTMDU65693,0,0,0,F,19.100,Oui,No,Non,19.100,Month-to-month,0,Mailed check,1
+IHCDJ04304,0,0,0,H,49.000,Oui,Yes,ADSL,749.250,Month-to-month,1,Electronic check,15
+DGTXZ58714,0,0,0,H,19.800,Oui,No,Non,607.700,One year,0,Mailed check,32
+JWRQX66561,0,0,0,F,30.550,Non,No phone service,ADSL,30.550,Month-to-month,0,Mailed check,1
+YWGEX97347,0,0,0,F,98.300,Oui,Yes,Fibre,923.500,Month-to-month,0,Credit card (automatic),9
+GIQJT03089,0,1,0,H,105.750,Oui,Yes,Fibre,7382.850,One year,0,Bank transfer (automatic),71
+FGEDO67197,1,0,0,F,97.000,Oui,Yes,Fibre,7104.200,Two year,1,Bank transfer (automatic),72
+RDTHP89373,0,0,0,H,84.600,Oui,No,Fibre,84.600,Month-to-month,1,Mailed check,1
+FRABG41883,1,0,0,H,103.050,Oui,Yes,Fibre,5925.750,Month-to-month,1,Electronic check,57
+QYWSS03113,0,0,0,F,49.450,Oui,No,ADSL,314.600,Month-to-month,1,Electronic check,6
+XKAES58326,0,0,0,H,69.800,Oui,No,Fibre,134.700,Month-to-month,1,Credit card (automatic),2
+GORJT41926,1,0,0,H,94.450,Oui,No,Fibre,498.100,Month-to-month,1,Electronic check,5
+VEYEH20815,0,0,0,H,107.950,Oui,No,Fibre,318.600,Month-to-month,1,Electronic check,3
+VBNXY37745,1,0,1,F,20.200,Oui,No,Non,1277.750,Two year,0,Mailed check,64
+DVOJX80502,0,1,0,H,81.350,Oui,Yes,ADSL,4060.900,Two year,0,Credit card (automatic),49
+QFUVD30909,0,0,0,F,20.300,Oui,No,Non,20.300,Month-to-month,0,Credit card (automatic),1
+NVMPX31733,1,0,1,F,55.300,Oui,Yes,ADSL,501.200,Month-to-month,1,Mailed check,9
+YNGYW27374,0,0,0,F,80.550,Oui,No,Fibre,184.100,Month-to-month,0,Electronic check,2
+JTXHZ94448,1,0,0,H,76.200,Oui,No,Fibre,76.200,Month-to-month,0,Electronic check,1
+ZNSFF69797,0,0,0,F,87.050,Oui,Yes,Fibre,762.100,Month-to-month,1,Electronic check,8
+QPAVC42484,1,1,0,F,85.350,Oui,Yes,Fibre,1463.450,Month-to-month,1,Bank transfer (automatic),17
+IHQZE15833,0,0,0,H,112.950,Oui,Yes,Fibre,1384.750,Month-to-month,1,Mailed check,12
+ZUEQE94459,1,0,1,H,85.200,Oui,Yes,Fibre,2151.600,Month-to-month,1,Credit card (automatic),27
+MDKNV02075,0,0,0,F,105.100,Oui,No,Fibre,1582.750,Month-to-month,0,Electronic check,15
+SQIOB24806,1,0,1,H,44.800,Oui,No,ADSL,169.650,Month-to-month,0,Electronic check,4
+HXJKU79775,0,0,1,H,19.600,Oui,No,Non,397.000,Two year,0,Mailed check,21
+FZATL31909,0,0,1,H,19.950,Oui,No,Non,268.400,Month-to-month,0,Mailed check,14
+MHFLQ79803,1,0,1,F,24.900,Oui,Yes,Non,1859.200,Two year,0,Mailed check,72
+SBOYW24812,0,0,1,F,25.000,Oui,Yes,Non,1498.350,Two year,1,Credit card (automatic),61
+NEAVX03808,0,1,0,H,99.850,Oui,No,Fibre,3343.150,One year,1,Electronic check,34
+NJERN97106,0,0,0,F,20.150,Oui,No,Non,826.000,Two year,0,Mailed check,39
+AXXLJ04289,0,0,0,H,19.500,Oui,No,Non,516.300,One year,1,Bank transfer (automatic),25
+MYGKD65868,1,0,0,H,76.950,Oui,Yes,ADSL,5289.800,Two year,1,Credit card (automatic),70
+KUTAJ46801,0,1,0,F,55.600,Oui,Yes,ADSL,580.800,Month-to-month,1,Electronic check,11
+JJVZK54787,0,0,0,F,60.900,Oui,Yes,ADSL,2033.850,Month-to-month,1,Mailed check,33
+DQLUS39821,1,1,1,H,85.750,Oui,Yes,Fibre,5688.450,Month-to-month,1,Electronic check,65
+RJKLU61201,1,1,0,F,79.950,Oui,No,ADSL,4819.750,Two year,1,Credit card (automatic),62
+GFNTW00192,0,0,0,F,45.050,Non,No phone service,ADSL,2560.100,Two year,0,Bank transfer (automatic),56
+REAFF97646,1,0,0,F,18.400,Oui,No,Non,1057.850,Two year,0,Bank transfer (automatic),59
+GFGCZ84047,1,0,0,H,65.600,Oui,Yes,ADSL,250.100,Month-to-month,0,Electronic check,4
+CNLUQ53271,1,0,0,H,96.900,Oui,Yes,Fibre,4473.450,Two year,1,Bank transfer (automatic),48
+HJJRW90604,0,0,0,F,56.400,Non,No phone service,ADSL,2928.500,One year,1,Credit card (automatic),51
+BRLOM23971,1,1,1,H,80.450,Oui,No,Fibre,583.450,Month-to-month,1,Credit card (automatic),8
+RJYNF80635,0,0,0,H,94.250,Oui,No,Fibre,1483.250,Month-to-month,1,Electronic check,16
+KCJGT02543,1,0,0,H,81.400,Oui,Yes,ADSL,4354.450,One year,1,Credit card (automatic),52
+IWWBA27255,1,0,1,H,56.900,Oui,No,ADSL,2560.100,One year,0,Mailed check,46
+UVSZU80172,1,0,0,F,56.600,Oui,Yes,ADSL,2379.100,Month-to-month,0,Credit card (automatic),40
+BFTIW21154,0,0,0,H,70.950,Oui,No,Fibre,1767.350,Month-to-month,0,Mailed check,25
