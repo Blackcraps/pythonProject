@@ -41,4 +41,10 @@ f1_score(y_train_sm, y_pred, average='macro')
 eval_pred = eval[features].values
 pred = mlog.predict(eval_pred)
 
+df = pd.DataFrame(X_train_sm, columns=['mariee', 'retraite', 'a_charge', 'facture_mensuelle', 'telephone', 'plusieurs_numeros', 'internet',
+            'total_factures', 'contrat', 'facture_par_mail', 'client_depuis_mois'])
+
+
 print(pred)
+
+print(pd.DataFrame(np.concatenate([mlog.intercept_.reshape(-1, 1), mlog.coef_], axis=1), index=["coef"], columns=["constante"] + list(df.columns)).T)
