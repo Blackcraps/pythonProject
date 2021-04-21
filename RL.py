@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import seaborn as sns
-import statsmodels.api as sm
+import statsmodels.api as sms
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import confusion_matrix
@@ -56,3 +56,10 @@ df = pd.DataFrame(X_train_sm, columns=['mariee', 'retraite', 'a_charge', 'factur
 print(pred)
 
 print(pd.DataFrame(np.concatenate([mlog.intercept_.reshape(-1, 1), mlog.coef_], axis=1), index=["coef"], columns=["constante"] + list(df.columns)).T)
+
+x_stat = sms.add_constant(X_train_sm)
+model = sms.Logit(y_train_sm, x_stat)
+result = model.fit()
+
+result.summary()
+print(result.summary())
